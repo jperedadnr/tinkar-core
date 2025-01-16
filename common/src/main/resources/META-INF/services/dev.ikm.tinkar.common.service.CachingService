@@ -1,0 +1,4 @@
+dev.ikm.tinkar.common.service.PrimitiveData$CacheProvider
+dev.ikm.tinkar.common.service.PrimitiveDataService$CacheProvider
+dev.ikm.tinkar.common.service.ServiceProperties$CacheProvider
+dev.ikm.tinkar.common.service.TinkExecutor$CacheProvider

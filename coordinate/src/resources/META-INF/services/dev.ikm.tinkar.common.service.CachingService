@@ -1,0 +1,7 @@
+dev.ikm.tinkar.coordinate.edit.EditCoordinateRecord$CacheProvider
+dev.ikm.tinkar.coordinate.language.calculator.LanguageCalculatorWithCache$CacheProvider
+dev.ikm.tinkar.coordinate.logic.calculator.LogicCalculatorWithCache$CacheProvider
+dev.ikm.tinkar.coordinate.navigation.calculator.NavigationCalculatorWithCache$CacheProvider
+dev.ikm.tinkar.coordinate.stamp.calculator.StampCalculatorWithCache$CacheProvider
+dev.ikm.tinkar.coordinate.stamp.StampPathImmutable$CachingProvider
+dev.ikm.tinkar.coordinate.view.calculator.ViewCalculatorWithCache$CacheProvider
